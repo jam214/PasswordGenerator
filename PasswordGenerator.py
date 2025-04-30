@@ -1,6 +1,6 @@
 #PasswordGenerator.py
 """
-Creator: James Sanchez
+Creator: James S.
 Purpose: To create a random password based on input and then search for a hash that matches the password.
 """
 
